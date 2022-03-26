@@ -7,6 +7,7 @@ namespace API_Serivce
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("jonas byl zde");
         }
     }
 }
