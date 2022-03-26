@@ -8,6 +8,7 @@ namespace API_Serivce
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("jonas byl zde");
+            Console.WriteLine("jonas byl zde2");
         }
     }
 }
